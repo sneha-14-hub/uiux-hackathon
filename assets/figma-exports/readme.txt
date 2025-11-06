@@ -8,6 +8,6 @@ Contains screens exported from the **AqVerium** Figma design.
 - Marketplace & Project Verification  
 - AI Trading Chatbot  
 
-📦 Format: `.png` or `.webp`  
+📦 Format: `AQVERIUM.png` 
 🕹️ Tip: Keep resolution under 1920×1080 for presentation use.
 
