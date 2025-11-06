@@ -32,14 +32,11 @@ Our vision is to empower communities and organizations to create measurable impa
 ---
 
 ## 🧠 Team & Credits
-**Designed by:** Sejal & team  
+**Designed by:** Sneha and Sejal Team name : _CODE & CURVES 
 **Hackathon Duration:** 6 hours  
 **Theme:** Sustainability & Resource Management  
 **Toolstack:** Figma, Illustrator, Canva  
 
----
 
-## 📞 Contact
-For design inquiries or collaboration:  
-📧 [your-email@example.com]  
-🌐 [GitHub Profile Link]
+
+
